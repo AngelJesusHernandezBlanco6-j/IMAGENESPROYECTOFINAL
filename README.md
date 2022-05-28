@@ -1,2 +1,2 @@
 # IMAGENESPROYECTOFINAL
-Aqui estan imagenes para e proyecto final de IOS Y ANDROID
+Aqui estan imagenes para eL proyecto final de IOS Y ANDROID
